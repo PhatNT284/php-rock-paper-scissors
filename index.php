@@ -16,6 +16,7 @@ partially done and serves only as a starting point for the assignment.
 <p>
 Attempt to go to 
 <a href="game.php">game.php</a> without logging in - it should fail with an error message.
+</p>
 <p>
 <a href="http://www.wa4e.com/code/rps.zip"
  target="_blank">Source Code for this Application</a>
